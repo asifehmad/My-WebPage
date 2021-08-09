@@ -7,7 +7,7 @@ publications = st.container()
 
 with header:
     st.title('Welcome to Asif Ahmad WebPage')
-    st.text('Hello, all! This is Asif Ahmad Master of Science in Mathematics')
+    st.text('Hello, all! This is Asif Ahmad Master of Science in Mathematics.')
 
 with qualification:
     st.title('Qualification')
@@ -19,5 +19,5 @@ with designation:
 
 with publications:
     st.title('Publications')
-    st.text('One international journal article and one conference paper')
+    st.text('One international journal article and one conference paper.')
 
